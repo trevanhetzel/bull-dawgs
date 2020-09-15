@@ -8,4 +8,6 @@ if ( have_posts() ) {
 }
 ?>
 
+<h2>A change</h2>
+
 <?php get_footer(); ?>
